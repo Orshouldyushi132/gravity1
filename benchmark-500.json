@@ -1,0 +1,47 @@
+{
+  "scene": "500 copies of 5 extracted hiragana glyphs; 25x20 grid; synthetic horizontal floor",
+  "platform": "macOS-26.2-arm64-arm-64bit-Mach-O",
+  "pymunk": "7.3.0",
+  "count": 500,
+  "convexShapes": 21900,
+  "fps": 60,
+  "substeps": 16,
+  "iterations": 50,
+  "mutualGravity": false,
+  "curveTolerancePx": 0.08,
+  "checkpoints": [
+    {
+      "simulationSeconds": 1.0,
+      "wallSeconds": 14.200145458002225,
+      "sleeping": 0,
+      "removed": 0
+    },
+    {
+      "simulationSeconds": 2.0,
+      "wallSeconds": 126.77900875000341,
+      "sleeping": 0,
+      "removed": 0
+    },
+    {
+      "simulationSeconds": 3.0,
+      "wallSeconds": 191.1570641670114,
+      "sleeping": 0,
+      "removed": 1
+    },
+    {
+      "simulationSeconds": 4.0,
+      "wallSeconds": 233.45270712500496,
+      "sleeping": 0,
+      "removed": 31
+    },
+    {
+      "simulationSeconds": 5.0,
+      "wallSeconds": 273.20486658300797,
+      "sleeping": 0,
+      "removed": 48
+    }
+  ],
+  "contactCallbacks": 4524846,
+  "maximumContactPenetrationPx": 1.4088272182330783,
+  "allFinite": true
+}

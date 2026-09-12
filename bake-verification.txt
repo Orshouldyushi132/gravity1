@@ -1,0 +1,1 @@
+Composition: Gravity1_Result_5s_VerifiedKeyframes: 3000Maximum numeric error: 0.00006093146453Source layers: 7Excluded enabled: false
